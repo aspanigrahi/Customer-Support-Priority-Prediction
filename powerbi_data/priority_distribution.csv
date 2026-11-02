@@ -1,0 +1,9 @@
+priority,tickets,type,order
+Low,2570,Actual,1
+Medium,2971,Actual,2
+High,2381,Actual,3
+Urgent,1102,Actual,4
+Low,3345,Predicted,1
+Medium,2950,Predicted,2
+High,2729,Predicted,3
+Urgent,0,Predicted,4

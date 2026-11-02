@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+metastore_db/
+spark-warehouse/
+0000.parquet
